@@ -31,3 +31,15 @@ Passo a passo:
 
 
 6- Clicar em run e o Language Studio vai fazer a análise do texto que foi transcrito e vai mostrar como resultado qual o sentimento passado pela pessoa em relação ao serviço que lhe foi prestado.
+
+
+Resultados do teste:
+
+
+![resultado](https://github.com/anamirannda/DioLab-LangStudio-AzureAI/assets/151754232/55fa8af2-85e4-4534-957b-d1526a8935cd)
+
+
+
+![resultado1](https://github.com/anamirannda/DioLab-LangStudio-AzureAI/assets/151754232/577b658a-9da1-4d13-aa86-f83fcc275bd5)
+
+
