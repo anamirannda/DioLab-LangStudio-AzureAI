@@ -43,3 +43,5 @@ Resultados do teste:
 ![resultado1](https://github.com/anamirannda/DioLab-LangStudio-AzureAI/assets/151754232/577b658a-9da1-4d13-aa86-f83fcc275bd5)
 
 
+Com o resultado, dá para entender o nível de satisfação do cliente com o serviço e as palavras chaves que definiram o sentimento gerado por ele.
+
